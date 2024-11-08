@@ -22,5 +22,4 @@
 - [GitHub](https://github.com/rahulram01)
 - 📧 Email: psrahulram@gmail.com
 
-### 🏆 Stats
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulram01&show_icons=true&theme=radical)
+
